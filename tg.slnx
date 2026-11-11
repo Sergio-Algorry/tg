@@ -1,1 +1,10 @@
-<Solution />
+<Solution>
+  <Folder Name="/back/" />
+  <Folder Name="/back/tgOb/">
+    <Project Path="back/tgob/tgOb.Api/tgOb.Api.csproj" />
+  </Folder>
+  <Folder Name="/back/tgPb/" />
+  <Folder Name="/front/" />
+  <Folder Name="/front/tgOf/" />
+  <Folder Name="/front/tgPf/" />
+</Solution>
