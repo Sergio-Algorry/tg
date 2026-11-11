@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="tgob/tgOb.Api/tgOb.Api.csproj" />
+  <Project Path="tgPb/tgPb.Api/tgPb.Api.csproj" />
+</Solution>
